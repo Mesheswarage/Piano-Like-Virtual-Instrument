@@ -1,6 +1,9 @@
 # Piano-Like-Virtual-Instrument
 This repository houses an interactive virtual instrument that resembles a piano. While it may not produce sound like a traditional piano just yet, it offers a unique and engaging experience for users interested in exploring the world of digital music creation.And this offers two distinct ways to play music.
 
+1. Keyboard Mode
+2. Computer Vision Mode
+
 ## Keyboard Mode: 
 
 The keyboard mode allows you to play music using your computer keyboard keys as piano keys. It provides a simple and intuitive way to create melodies. The user-friendly interface and easy key mapping make it accessible to musicians and beginners alike.
